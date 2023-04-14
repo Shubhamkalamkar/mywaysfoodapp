@@ -62,8 +62,8 @@ export const Create = (props) => {
         <br />
 
         
-        <button onClick={save}>save</button>
-        <button onClick={clear}>clear</button>
+        <button onClick={save} className="button">save</button>
+        <button onClick={clear} className="button">clear</button>
         <br />
         <br />
         <div></div>
